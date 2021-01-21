@@ -26,7 +26,7 @@ setup_info = dict(
 
     install_requires=[
         'torch',
-        'cupy-cuda101',
+        'cupy-cuda100',
         # 'scikit-cuda',
     ]
 )
